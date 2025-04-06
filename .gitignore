@@ -1,0 +1,19 @@
+# Environments & Secrets
+.venv*
+venv*
+ENV*
+.env*
+*.env
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor specific (optional)
+.vscode/
+.idea/
+
+# OS specific (optional)
+.DS_Store
+Thumbs.db
